@@ -1,0 +1,510 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dampe of death: beaten backe with the glorious light and life of Iesus Christ / In a sermon preached at Lancaster assises in Lent last, to the condemned prisoners there, and before the honourable iudges, and worshipfull of that countie. By William Leigh, bachelor in diuinitie, and pastor at Standish</title>
+            <author>Leigh, William, 1550-1639.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72540</idno>
+            <idno type="STC">STC 15423</idno>
+            <idno type="STC">ESTC S125476</idno>
+            <idno type="EEBO-CITATION">99898200</idno>
+            <idno type="PROQUEST">99898200</idno>
+            <idno type="VID">132388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2079:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dampe of death: beaten backe with the glorious light and life of Iesus Christ / In a sermon preached at Lancaster assises in Lent last, to the condemned prisoners there, and before the honourable iudges, and worshipfull of that countie. By William Leigh, bachelor in diuinitie, and pastor at Standish</title>
+                  <author>Leigh, William, 1550-1639.</author>
+               </titleStmt>
+               <extent>[16], 53, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho : Creede, for Arthur Iohnson, dwelling in Pauls Churchyard at the signe of the white Horse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first three leaves and the last leaf are blank.</note>
+                  <note>Title page on leaf A4.</note>
+                  <note>Copy at reel 2079 lacks first three blank leaves.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132388:1" rendition="simple:additions"/>
+            <pb facs="tcp:132388:2"/>
+            <pb facs="tcp:132388:2"/>
+            <p>THE DAMPE OF DEATH: BEATEN backe with the glorious light <hi>and life of Ieſus Chriſt.</hi>
+            </p>
+            <p>In a Sermon Preached at Lan<g ref="char:EOLhyphen"/>caſter Aſſiſes in Lent laſt, to the <hi>con<g ref="char:EOLhyphen"/>demned Priſoners there, and before the Honourable Iudges, and Worſhipfull of that Countie.</hi>
+            </p>
+            <p>By <hi>William Leigh</hi> Bachelor in Diui<g ref="char:EOLhyphen"/>nitie, and Paſtor at <hi>Standiſh.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1. Cor. 15. v. 57.</hi>
+               </bibl>
+               <p>Thankes be to God, which hath giuen vs victorie through our Lord Ieſus Chriſt.</p>
+            </q>
+            <p>LONDON Printed by Tho: Creede, for Arthur Iohnſon, dwelling in <hi>Pauls Church<g ref="char:EOLhyphen"/>yard</hi> at the ſigne of the white Horſe. 1613.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:132388:3"/>
+            <pb facs="tcp:132388:3"/>
+            <head>TO THE RIGHT <hi>WORSHIPFVLL THO<g ref="char:EOLhyphen"/>mas Tildeſley</hi> Eſquire, his Maieſties Atturney generall, within the Coun<g ref="char:EOLhyphen"/>tie <hi>Palantine</hi> of <hi>Lancaſter,</hi> and Vice Chancellor, of his Highnes Court of Chancerie there: Grace be multi<g ref="char:EOLhyphen"/>plied in this world, and bleſ<g ref="char:EOLhyphen"/>ſednes in the world to come.</head>
+            <opener>
+               <salute>Worſhipfull Syr.</salute>
+            </opener>
+            <p>YOur loue hath ouerawed me much in this buſines wherein it hath pleaſed God and you to put me, and for be<g ref="char:EOLhyphen"/>cauſe your place, and praiſe, is in the Goſ<g ref="char:EOLhyphen"/>pell, I durſt not conſult with fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh and blood, but haue as you may ſee, moſt wil<g ref="char:EOLhyphen"/>lingly obeyed the heauenly call.</p>
+            <p>The Sermon being ended at <hi>Lancaſter</hi> in Lent Aſſiſes laſt, where I was enioyned
+<pb facs="tcp:132388:4"/>
+by authoritie to preach to the priſo<g ref="char:EOLhyphen"/>ners then condemned to die, it was your deſire to have a copie in priuate of that which was then deliuered in publique, at what time I truely tolde you, my Notes were ſcattered and vn<g ref="char:EOLhyphen"/>diſgeſted, rather carried in my heart, then in my hand, yet (would God aſſi<g ref="char:EOLhyphen"/>ſting me) in conuenient time binde them together ere they were too farre fallen out of my minde and memorie, which I haue here done accordingly, and ſent them to your worſhip, as a conſtat of my vnfained loue, yet with this Cau<g ref="char:EOLhyphen"/>tion, you neuer thinke what was then deliuered by voyce, can be carried ſo powerfully in papers, as it was in ſpeech.</p>
+            <p>The words contained in the two ta<g ref="char:EOLhyphen"/>bles which God gaue to <hi>Moſes,</hi> from the holy Mount, were firſt ſpoken by the mouth of God, ere they were writ<g ref="char:EOLhyphen"/>ten by the finger of God, and then car<g ref="char:EOLhyphen"/>ried into the valley to be heard and kept of all the people. So may I likewiſe ſay of the Gospell, Voyces and Propheſies
+<pb facs="tcp:132388:4"/>
+went of the blood of Chriſt, ere euer it dropt out of his veines. But if gra<g ref="char:EOLhyphen"/>tious words had not fallen from the mouth of Chriſt, Chriſtians had ne<g ref="char:EOLhyphen"/>uer conceiued either the power or vertue of his death. For as there is a blood of redemption, ſo there is a word of re<g ref="char:EOLhyphen"/>conſiliation, and ſurely where the word teacheth not, there the blood droppeth not: you are religiouſly wiſe to conceiue whereat I ayme. To wit, that reading, preaching, and practizing of pietie, may all goe together, like <hi>Saul</hi> and <hi>Io<g ref="char:EOLhyphen"/>nathan,</hi> of whom it is ſaid, <hi>that they were louely in their liues, and at their deaths were not diui<g ref="char:EOLhyphen"/>ded.</hi>
+            </p>
+            <p>Learned you are in your owne lawes, and therefore knowe better then I can tell, that though the body of your lawes lie in your bookes, yet the ſoule thereof is in your mootes and pleadings, as alſo that the barre and bench doe more powerfully end, and profitably de<g ref="char:EOLhyphen"/>termine our cauſes, then the bookes in your chambers can doe: I ſpeake in
+<pb facs="tcp:132388:5"/>
+no desperagement, either of your bookes, or our Bibles, which in themſelues are learned, ſacred and holy, but to intimate to all the world, that if you pleade not, and we preach not, neither ſtates can long ſtand, nor ſoules can be ordinarily ſaued. For though holy bookes be holy Oracles, and regiſters of Gods truth, <note place="margin">
+                  <hi>Malachi.</hi> 2. <hi>v.</hi> 7.</note>
+               <hi>Yet muſt the Prieſts lippes preſerue knowledge, and the peo<g ref="char:EOLhyphen"/>ple muſt ſeeke the lawe at his mouth, for he is the meſſenger of the Lord of Hoſts.</hi>
+            </p>
+            <p>Good Sir, take what I haue written, in lieu of my loue, may it pleaſure you and benefit Soules, either liuing in this world, or dying to a better, it is all I wiſh in my heart, it is all I begge in my prayer, and what is in my power or Element to doe, it ſhall be alwaies yours, my penne is yours, my paines are yours, my ſelfe am yours, to be commaunded in him, who commandeth all, with my daily prayer to God, for you and yours, euer to be kept vnder his holy and helping hand of prouidence and pro<g ref="char:EOLhyphen"/>tection.
+<pb facs="tcp:132388:5"/>
+And ſo I ceaſe your further trouble, but neuer leaue to loue and honour you, as I am much bounden,</p>
+            <closer>
+               <dateline>Standiſh <date>
+                     <hi>this ſeuenteenth day of Aprill.</hi> 1613.</date>
+               </dateline>
+               <signed>
+                  <hi>Your worſhips euer, and ſo aſſured in his loue,</hi> William Leigh.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:132388:6"/>
+            <pb n="1" facs="tcp:132388:6"/>
+            <head>THE DAMPE OF DEATH, BEA<g ref="char:EOLhyphen"/>TEN BACKE WITH THE <hi>glorious light and life of Ieſus Chriſt.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Colloſſ. 3. verſe. 3.4.</hi>
+                  </bibl>
+                  <p>For yee are dead, and your life is hidde with Chriſt in good.</p>
+                  <p>When Chriſt which is our life ſhall appeare, then ſhall yee alſo appeare with him in glorie.</p>
+               </q>
+            </epigraph>
+            <p>WHen I laſt ſupplied this place in your honourable preſence as now I doe, and preached vnto thoſe poore delinquents then rea<g ref="char:EOLhyphen"/>die to die by the doome of iuſtice; I
+<pb n="2" facs="tcp:132388:7"/>
+was ſharpely cenſured of ſome, that I preached too much mercie, and too little Iudgement, and that like an vn<g ref="char:EOLhyphen"/>skilfull Samaritan, I powred into the ſores of thoſe wounded ſoules and broken hearts ouer much oyle, and too little vineger.</p>
+            <p>Which and if I did, I might well ſay with the Prophet <hi>Ieremiah,</hi> in a cauſe not much different; <note place="margin">
+                  <hi>Ierem.</hi> 20.7.</note>O my God, if I be deceiued, thou haſt deceiued me, thou haſt deceiued me with the extent of thy mercy, which reacheth farre, euen from the nethermoſt hell, to the higheſt heauens: Thou haſt de<g ref="char:EOLhyphen"/>ceiued me with the height of thy mercie, which is aboue all thy workes, for thy mercie O Lord ſtretcheth it ſelfe vnto the heauens, and thy truth vnto the cloudes: thou haſt deceiued me with the depth of thy mercie, for one depth calleth vpon an other, but that of mercie ſwalloweth vp all: Nay thou haſt deceiued me with thine holy offerings of mercie vpon thine holy Altar, who haſt ſaid, I will haue mercie and not ſacrifice; But oh
+<pb n="3" facs="tcp:132388:7"/>
+my God, thou art not deceiued, nei<g ref="char:EOLhyphen"/>ther can thy mercies be limited in thy bountie, and why ſhall they be ſtraitned in my bowels?</p>
+            <p>It may be Nature hath made me ouermilde, and the ſinnes of the world require I ſhould be ſeuere, yet this muſt I ſay withall, that neither my ouermilde diſpoſition, nor yet the worlds tranſgreſſion, ſhall euer make me cruell againſt the penitent.</p>
+            <p>And ſuch you are, whoſe ſalt teares this day, doe well expreſſe your ſor<g ref="char:EOLhyphen"/>rowfull hearts, who hauing beene humbled, at the barre of Gods Iuſtice, why ſhould you not appeale to the barre of his mercie, to ſeeke and ſue for grace to helpe in time of need.</p>
+            <p>For when is need if not now? when the feare of death is before your face, when the horrour of your ſinnes cryeth vengeance againſt your ſoules, whe<g ref="char:cmbAbbrStroke">̄</g> your beſt friends faile you, and this whole world forſaketh you, when Sathan winnoweth you like
+<pb n="4" facs="tcp:132388:8"/>
+wheate, becauſe he knoweth he hath but a ſhort time, when is need, if not now? to pray that your faith faile you not, that the Lord would be propiti<g ref="char:EOLhyphen"/>ous, and that no temptation fall vpon you greater then you are able to beare, but that euen in the middeſt of the temptation, the Lord would giue you a gratious iſſue, and that ſo vpon your diſſolution which is at hand, you might be tranſlated out of this miſera<g ref="char:EOLhyphen"/>ble world, to liue with God in the mer<g ref="char:EOLhyphen"/>cies of a better.</p>
+            <p>Pardon me then againe to paſſe by theſe turbulent waters of <hi>Iorden,</hi> I meane of Iudgement that runne roughly vpon the Rockes of your ſinne, and giue me leaue yet ſtill to bathe in the ſweete running waters of <hi>Shilo,</hi> I meane mercie, that goe ſoftly by <hi>Syon,</hi> and when <hi>Iordan</hi> is driuen backe with the Ocean of Gods mer<g ref="char:EOLhyphen"/>cies, you may more ſpeedily make your paſſage into <hi>Canaan</hi> the land of your inheritance.</p>
+            <p>Now therefore to you, be it ſpoken
+<pb n="5" facs="tcp:132388:8"/>
+poore ſuppliants, ouer whom we pray with teares, and preach with paſſion, lift vp your hearts aboue the height of all Sublimitie: Settle your affections on things that are aboue, and not on things that are belowe. For thoe yee be dead, what of that? yet your life is hid with Chriſt in God, and when Chriſt which is your life ſhall appeare, then ſhall yee appeare with him in glorie.</p>
+            <p>The Text is like the fierie Chariot that carried vp <hi>Eliah</hi> into heauen,<note place="margin">2. <hi>Kings.</hi> 2. <hi>v.</hi> 11.</note> which thoe happily it might turne his bodie into Synders, yet it neuer left him, till it had brought his ſoule into ſolace.</p>
+            <p>And it runnes as you may heare ſee vpon three wheeles, the firſt is of death, the ſecond of life, and the third, of glorie.</p>
+            <p>Death goeth before, Life follow<g ref="char:EOLhyphen"/>eth after, and glorie perfecteth all: and ſo as I may ſay, there is bleſſednes in death, there is bleſſednes in life, and there is bleſſednes in glorie, and with this three folde gable yee are halled
+<pb n="6" facs="tcp:132388:9"/>
+vp to heauen.</p>
+            <p>Yee are dead, that is your bleſſed mortification;</p>
+            <p>Your life is hid with Chriſt in God, that is your bleſſed regeneration:</p>
+            <p>And when Chriſt which is your life ſhall appeare, then ſhall yee appeare with him in bleſſednes, that is your glo<g ref="char:EOLhyphen"/>rie: Or thus, yee are dead, that is your bleſſed croſſe, but your life is hid in Chriſt, that is your bleſſed ſhade or co<g ref="char:EOLhyphen"/>uer, and when Chriſt ſhall appeare, then ſhall yee appeare with him in glorie, that is your bleſſed crowne and diadem of all heauenly delights.</p>
+            <p>
+               <note place="margin">
+                  <hi>Gen.</hi> 27. <hi>v.</hi> 26.27.</note>It is ſaid of aged <hi>Iſaacke,</hi> that when his ſonne <hi>Iacob</hi> had prepared for him ſuch ſauourie meate as his ſoule lo<g ref="char:EOLhyphen"/>ued, cooked and ſeaſoned with the cunning hand of <hi>Rebeckah</hi> his mother, <hi>Iſaack</hi> called vnto him, and ſaid, Come hither my ſonne, and let me kiſſe thee before I die, for me thinkes the ſmell of thy garments is like vnto the ſmell of a field which the Lord hath bleſſed.</p>
+            <p>Though moſt of you be young, yet are yee now aged &amp; dead to this world,
+<pb n="7" facs="tcp:132388:9"/>
+as <hi>Iſaacke</hi> was, and I hope the meate pre<g ref="char:EOLhyphen"/>pared for you, is ſuch ſauorie meate as your ſoule loueth, Cooked with a more curious and cunning hand, then that of <hi>Rebeckah,</hi> for the ſpirit of God hath ſpoken it, by the mouth of <hi>Paul,</hi> and therefore come and kiſſe your Chriſt before yee die, ſith the ſweete ſmell and odour thereof, is like vnto the ſmell of a field which the Lord hath bleſſed; For now are yee bleſſed in death, bleſ<g ref="char:EOLhyphen"/>ſed in life, and bleſſed in glorie.</p>
+            <p>Firſt then my deare brethren, belo<g ref="char:EOLhyphen"/>ued and longed for, I ſay beloued in the beſt loue which is of Ieſus Chriſt, and longed for, with a longing deſire of your ſpeedie ſaluation, euen at the in<g ref="char:EOLhyphen"/>ſtant of your deſolution; let it not ſeeme ſtrange vnto you, that there ſhould be a bleſſednes in death. The truth hath ſpoken it, you may belieue it.<note place="margin">
+                  <hi>Reuell.</hi> 14. <hi>v.</hi> 13.</note> The dead that die in the Lord are ful<g ref="char:EOLhyphen"/>ly bleſſed, <hi>Amodo,</hi> euen now they reſt from their labours, and their workes follow them. This voyce ſaith <hi>Iohn</hi> fell downe from heauen, that in the ſweete ayre thereof, breathing life into our
+<pb n="8" facs="tcp:132388:10"/>
+ſoules, our dead and dul, harts might be comforted, and euen here in the midſt of death, neuer to deſpaire of life.</p>
+            <p>You haue heard belowe in this val<g ref="char:EOLhyphen"/>ley of teares many fearefull voyces, when ſinne and ſhame runne after you as it were with <hi>Hue and Crye,</hi> and when yee weare taken in your tranſgreſſions againſt God and the King, it was a feare<g ref="char:EOLhyphen"/>full voyce, when putting your ſelues vpon God and your countrey, yee were found guiltie by the verdict of twelue iuſt men, yet more were yee daunted, when yee were ſentenſed to die with this irreuocable doome, from the mouth of Gods miniſter: yee ſhall goe to the priſon, from whence yee came, thence to the place of execution, there ſhall you hang, vntill you be dead, and Chriſt haue mercie vpon your ſoules: your hearts were ſhaken to heare that voyce, and the mercifull Iudge tendering dropped downe teares to pronounce the Iudgement, the ſtanders by were compaſſionate, and the whole Bench was moued with your miſerie, yet what of all this?
+<pb n="9" facs="tcp:132388:10"/>
+Sith all theſe voyces are beaten backe, with a voyce of greater Maieſtie: Euen thus, <hi>The dead that die in the Lord are ful<g ref="char:EOLhyphen"/>ly bleſſed.</hi> Or as it is in my Text, <hi>Yee are dead, but your life is hid with Chriſt, in God, &amp;c.</hi>
+            </p>
+            <p>But happily it may ſeeme a Paradox to your paſſionate hearts, that a man ſhould wither, and yet flouriſh: that a man ſhould be breathles, &amp; yet breath: that a man ſhould be ſenſeleſſe, and yet feele: that a man ſhould be dead, and yet aliue: <hi>Ye are dead, yet is your life hid in Chriſt, &amp;c.</hi>
+            </p>
+            <p>Surely, Nature can neuer ſounde it, yet grace may apprehend it thus: It is poſſible to die to ſinne, and yet liue to righteouſnes. It is poſſible to die to this world, and yet liue to a better. It is poſ<g ref="char:EOLhyphen"/>ſible (like a Dead man) to walke vpon this Earth, and yet to haue his co<g ref="char:cmbAbbrStroke">̄</g>uerſa<g ref="char:EOLhyphen"/>tion in Heauen. Nay, it is poſſible that heauen &amp; earth ſhould ſo blend in one, as that one, and the ſelfe ſame man, ſhould be dead in himſelfe, and yet liue to his God.</p>
+            <p>It was ſo with <hi>Saint Paule,</hi> when hee
+<pb n="10" facs="tcp:132388:11"/>
+ſaid, <hi>Whether in the bodie, or out of the bo<g ref="char:EOLhyphen"/>die, I cannot tell, God hee knoweth, but me thinkes I ſee things that are invtterable:</hi> It was ſo with <hi>Iohn,</hi>
+               <note place="margin">
+                  <hi>Reuel.</hi> 1. <hi>V.</hi> 10. <hi>&amp; V.</hi> 17.</note> when Rauiſhed in ſpirit, he fell down dead vpon the ſight, and at the feete of that heauenly viſion. It was ſo with <hi>Daniel,</hi> when groueling vpon the ground,<note place="margin">
+                  <hi>Daniell.</hi> 8. <hi>V.</hi> 16.17.18.</note> hee lay as dead: yet heard a voyce betweene the Bankes of <hi>Hula</hi> (which ſaid) <hi>Gabriell, make this dead man to vnderſtand the Viſion;</hi> It was ſo with <hi>Ezekiel,</hi> at the Riuer <hi>Kebar,</hi> when he was caried betweene heauen &amp; earth by the haires of his head: And ſo both heard &amp; ſaw the diuine viſion.<note place="margin">
+                  <hi>Ezekiel.</hi> 8. <hi>V.</hi> 3.</note> All theſe were aliue, and yet dead, they were ra<g ref="char:EOLhyphen"/>uiſhed in ſpirit, and therefore lauiſh of their bodies: their thoughts were not mortall, whether in their bodies, or out of their bodies, they could not tell: Nor did they care, either for the croſſes or comfortes of this tranſitorie worlde, ſo they might ſolace their ſoules in the Ioyes of a better.</p>
+            <p>The vſe is good, to make the bur<g ref="char:EOLhyphen"/>den of your death more tollerable, in the comforts of a better life. Oh beare
+<pb n="11" facs="tcp:132388:11"/>
+it with patience: and let your Earthly paſſions be moulded with heauenly pa<g ref="char:EOLhyphen"/>tience: <hi>Patientia vera, ipſum amat, quem portat:</hi> True patience loues it burthen, and let the viſions of God, &amp; thoughts of immortalitie, Mortifie your mem<g ref="char:EOLhyphen"/>bers, with your mindes, let them kill your Earthly affections: So ſhall you paſſe without grieuances, and ſay, <hi>Multi vident Punctiones, ſed non vident Vnctiones:</hi> Many ſee our Afflictions, what they are outward, but they do not feele our con<g ref="char:EOLhyphen"/>ſolations, what they are inward.</p>
+            <p>Wee are dead, and what of that, Sith our life is hid with <hi>CHRIST</hi> in <hi>GOD?</hi> who will Crowne vs euen vppon the Croſſe, with glorie and Immortalitie: Neuer to die any more, neuer to ſinne any more, neuer to ſigh any more: For Teares ſhall bee taken from our Eyes, ſorrow from our ſoules, and ſinne from our Hands, wee ſhall now walke before the Lord in the land of the liuing.</p>
+            <p>Oh, but life is ſweet, and death is fear<g ref="char:EOLhyphen"/>full, how may I be prepared againſt that houre, to vndergo it in a Chriſtian pati<g ref="char:EOLhyphen"/>ence, without earthly paſſio<g ref="char:cmbAbbrStroke">̄</g>s? I anſwer.</p>
+            <p>
+               <pb n="12" facs="tcp:132388:12"/>There bee three things that make Death tollerable to each Chriſtian, The firſt is, the neceſſity of dying: The ſe<g ref="char:EOLhyphen"/>cond is, the Fecilitie of dying: And the third is, the falicitie of dying. For the firſt, that which cannot be auoyded by any power, it muſt be endured with all patience: The firſt Age had it, it may pleade Antiquitie. The ſecond Age felt it, it may pleade continuance. And this laſt Age hath it, it will pleade propertie in all fleſh, till Sinne and Time ſhalbe no more; Call it then no newe thing, that is ſo antient: Call it no ſtrange thing, that is ſo vſuall: and call it not an euill properly thine, which is ſo common with all the world.</p>
+            <p>Wilt thou feare that done, which is alwayes a dooing? (I meane thy dying) and feareſt thou to die in thy laſt day, when by little and little thou dyeſt eue<g ref="char:EOLhyphen"/>ry day? Oh well ſaid <hi>Saint Paule,</hi> by our reioycing, which <hi>I haue in Christ Ieſus our Lord,</hi>
+               <note place="margin">1. <hi>Cor.</hi> 15. <hi>Verſ.</hi> 31.</note> 
+               <hi>I die daylie:</hi> Why then I may well ſay, Yee are alwayes a dying, and death is ſtill a doing.</p>
+            <p>Death is the Ladie and Empreſſe of
+<pb n="13" facs="tcp:132388:12"/>
+all the world, it ceazeth vpon all Fleſh, without ſurrender of anie, till the day of reſtauration: No place, no Time, no preſence, can backe it. There is no priui<g ref="char:EOLhyphen"/>ledge againſt the graue, there is no pit<g ref="char:EOLhyphen"/>tie in the graue, there is no pleading with the graue: And therefore <hi>Antiqui<g ref="char:EOLhyphen"/>tie,</hi> neuer made Altar to Death, or did deuotion to it, becauſe it was implaca<g ref="char:EOLhyphen"/>ble: Euer found to be cruell, and neuer felt to be kinde.</p>
+            <p>But it may bee you will ſay, I might yet liue longer, for I am young, and in my blood: I anſwere, there is no time now to conſult with fleſh and blood, but readily to obey the Heauenly call: and for your fewe yeares, <hi>Seneca</hi> ſaith well, He that dieth when hee is young, is like one that hath loſt a Dye, wherewith hee might rather haue loſt then wonne: Moe yeares might haue inſnared you with moe ſinnes, and haue hardned you in your impenitencie, to the hazarde of your liues in this world, and your ſoules in an other: And for the flower of your youth, if you compare it with Aeternity, whither now you goe, and long after,<note place="margin">
+                  <hi>Ephes.</hi> 4. <hi>Vers.</hi> 15.</note> all
+<pb n="14" facs="tcp:132388:13"/>
+are equally young, and equally olde, for the moſt extended Age of a man in this worlde is but as a pointe, or a Minute, &amp; the moſt contracted can be no leſſe.</p>
+            <p>And here from the neceſſitie of dy<g ref="char:EOLhyphen"/>ing, come wee to the facilitie of dying, which maketh it leſſe fearfull, and more tollerable: For that the Senſe of Death is of no continuance, It is buryed in it birth, it vaniſheth in it thought, and the paine is no ſooner begunne, but it is ended. Though the Fleſh bee fraile, yet the ſpirit is ſtrong, to encounter the crueltie of death: and to make it rather a kinde kiſſe, then a cruell Croſſe.</p>
+            <p>Chriſt ſaid at his death, <hi>Father, Now the houre is come,</hi>
+               <note place="margin">
+                  <hi>Io</hi> 17. <hi>V.</hi> 1.</note> 
+               <hi>glorifie thy Sonne.</hi> Is there glorie in Death? And is it but an houre? <hi>Non manet diu, quòd in horam tantum manet:</hi> It is of no long abode, that abides but an houre.</p>
+            <p>And little doe I doubt, but in that houre, the ſoule is more rauiſhed with the ſight of <hi>GOD,</hi> then the bodie is tor<g ref="char:EOLhyphen"/>mented with the ſenſe of death. Nay, I am further perſwaded, in the very ſoule of my ſoule, that in the houre of death,
+<pb n="15" facs="tcp:132388:13"/>
+the paſſion of mortalitie is ſo beaten backe, with the Impreſſion of Aeterni<g ref="char:EOLhyphen"/>tie, as the fleſh feeleth nothing, but what the ſoule offereth, and that is God from whom it came, and whither it would: as Saint <hi>Auguſtine</hi> ſaith, <hi>Eadem facilitate, qua foelicitate;</hi> with as great haſte, as hap<g ref="char:EOLhyphen"/>pines: And ſo I paſſe from the facilitie of dying, to the Felicitie and bleſſednes, that commeth thereby.</p>
+            <p>Of which I may ſay, as <hi>Sampſon</hi> did of his riddle, <hi>Out of the eater came meate, and out of the ſtrong came ſweetnes:</hi>
+               <note place="margin">
+                  <hi>Iudg.</hi> 14. <hi>V.</hi> 14.</note> Now the meate that co<g ref="char:cmbAbbrStroke">̄</g>meth out of this eater, and ſweetnes that proceedeth foorth of this ſtrong one, is a Seſſation of all euill, and an endowme<g ref="char:cmbAbbrStroke">̄</g>t of all good: all euill both <hi>poenae &amp; culpae,</hi> are ſwallowed vp of death, and by that dore, we haue ready paſſage to all bleſſednes, wher all <hi>good &amp; God is.</hi>
+            </p>
+            <p>
+               <hi>Man that is borne of a Woman,</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 7. <hi>V.</hi> 6.7. <hi>&amp;</hi> 14. <hi>V.</hi> 1.2.</note> 
+               <hi>hath but a ſhort time to liue, and is full of miſerie:</hi>
+            </p>
+            <p>Oh ſweete Death that turneth time in<g ref="char:EOLhyphen"/>to Aeternitie, and miſerie into mercie. This made Saint <hi>Paul</hi> to ſay, <hi>I deſire to be diſſolued, and to bee with Chriſt.</hi> This made <hi>Dauid</hi> to daunce, in the middeſt
+<pb n="16" facs="tcp:132388:14"/>
+of his Affliction, when he ſaide, <hi>I ſhould verily haue fainted, but that I verily truſt to ſee the goodnes of God, in the land of the liuing.</hi> This hath ſupported the ſoules of Gods Saints, in the Seas of their ſor<g ref="char:EOLhyphen"/>rowes, when they thought vpon the day of their diſſolution, wherin they ſhould be made glorious by deliuerance.</p>
+            <p>And therefore whether you pleaſe to define or diuine of Death what it is, if it be rightly broken into it parts, and paſſages, the Elect of God ſhall finde it, A going out of priſon, a ſhaking off of Gyues, an end of baniſhment, a burſter of Bands, a deſtruction of toyle, an Arri<g ref="char:EOLhyphen"/>uing at the Hauen, a Iourney finiſhed, the laying away of a heauy burthen, the lighting from a mad and furious horſe, a deliuerance from a ruinous houſe, and houſe of claye: The end of all griefes, the eſcape of all dangers, the deſtroyer of all euils, Natures due, Countreys ioy, Heauens bliſſe: And all this, for that by Death the doore is open, and paſſage made to Bleſſednes, Reſt, and Immor<g ref="char:EOLhyphen"/>talitie:<note place="margin">
+                  <hi>Luk.</hi> 24. <hi>V.</hi> 26.</note> According to that of him who died for all: <hi>Ought not Chriſt to haue ſuf<g ref="char:EOLhyphen"/>fered,
+<pb n="17" facs="tcp:132388:14"/>
+and ſo to haue entered into his reſt?</hi> You may not leape out of your mothers warme wombe, into your fa<g ref="char:EOLhyphen"/>thers hotte Ioy, but you muſt a while endure death, that yee may be digni<g ref="char:EOLhyphen"/>fied, I had almoſt ſaid deified,<note place="margin">
+                  <hi>Phil.</hi> 3. <hi>v</hi> 21. <hi>Reuell.</hi> 14. <hi>v.</hi> 4.</note> and ſurely you ſhall be neare it, for yee are borne of God, and yee ſhall be faſhioned like vnto Chriſt, and followe the lambe whither euer he goeth: And now tell me in lieue of all I haue ſaid, if death doe thus diuide vs from all euill, and put vs into all good, if death be like the gathering Oſt <hi>Dan,</hi> that commeth laſt to gather vp the loſt and forlorne hope in this world, that they may be found in a better, whether is it better to liue in ſorrowe, or die with ſolace?</p>
+            <p>Let <hi>Agamedes</hi> and <hi>Trophonius</hi> aſſoile the doubt, of whom it is written by <hi>Plato</hi> in his <hi>Axioco,</hi> that after they had built the Temple of <hi>Apollo Delphicke,</hi> they begged of God, he would grant them that which would be moſt bene<g ref="char:EOLhyphen"/>ficiall for them, whereupon they went to bed, and there tooke their laſt ſleepe, and the day after, they were
+<pb n="18" facs="tcp:132388:15"/>
+found both dead, in token, that the day of death is better, then the day of life, this beeing the enterance, that the end of all miſerie.</p>
+            <p>The vſe is good in preparing vs to affliction, a continual current euer run<g ref="char:EOLhyphen"/>ning ouer our backes, euen from our birth, vnto our buriall, with a continu<g ref="char:EOLhyphen"/>all Archers ſhot, piercing our vaines, and breaking our bones, &amp; from which we are neuer deliuered, but in the day of our death,<note place="margin">
+                  <hi>Gen.</hi> 35. <hi>v.</hi> 18.</note> when <hi>Bonony</hi> the ſonne of my ſorrowe, is turned into <hi>Beniamin</hi> the ſonne of my right hand, and <hi>Rahels</hi> Croſſe, is crowned with <hi>Ia<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> ſtrength.</p>
+            <p>And heare ſeaſonably may I deſcend to the next part of my Text, and turne the ſecond wheele, carrying you from death to life, wherein you are hid, for your life is hid in Chriſt, that is your comfort. Nay that is your Tower, and though death like a dampe may ſeeme to put out all the delights of pleaſure, yet when it hath brought vs to the doore of life, it is beaten backe with a more glorious light, for then is your life hid with Chriſt in God: there to be carefully kept in grace, that yee may be
+<pb n="19" facs="tcp:132388:15"/>
+crowned with him in glorie, Soule now, and body then, in that bleſſed vni<g ref="char:EOLhyphen"/>on of faith, and day of reſtauration, when this mortalitie ſhall put one im<g ref="char:EOLhyphen"/>mortalitie.</p>
+            <p>I ſay carefully kept in the boſome of thy Chriſt,<note place="margin">
+                  <hi>Pſal.</hi> 16.7. <hi>Iſai.</hi> 32.2.</note> as in a retyring campe af<g ref="char:EOLhyphen"/>ter the day of battell, kept as in an hi<g ref="char:EOLhyphen"/>ding place from the winde, and as the ſhadowe of a great rocke in a wearie land, kept vs in a ſanctuarie to ſhrowde in, and as in one of the Cities of refuge to flee vnto, when ſinne, hell, and death followe after with <hi>hue</hi> and <hi>Cry:</hi> kept as Ioſeph was in the drie pit at <hi>Dothan,</hi> fro<g ref="char:cmbAbbrStroke">̄</g> the rage of his brethren;<note place="margin">1. <hi>Sam.</hi> 22.1. 1. <hi>King.</hi> 19.8.9. 1. <hi>King.</hi> 18.13. 2. <hi>King.</hi> 11.2.</note> kept as <hi>Dauid</hi> was in the Caue of <hi>Adullam,</hi> from the rage of <hi>Saul;</hi> kept as <hi>Elijah</hi> was at <hi>Hebro<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> from the ire of <hi>Ieſabell;</hi> kept as the hun<g ref="char:EOLhyphen"/>dreth Prophets were by <hi>Obedea</hi> fro<g ref="char:cmbAbbrStroke">̄</g> the furie of <hi>Ahab;</hi> Nay kept as <hi>Ioas</hi> was in the louing lap of <hi>Ioram,</hi> from the bloo<g ref="char:EOLhyphen"/>die deſignes of <hi>Athalia.</hi>
+            </p>
+            <p>And thus is your life hid in Chriſt, and ſo kept as no violence can reach it, no treaſon can intrap it, no tyrannie can betray it. No pollicie or pui<g ref="char:EOLhyphen"/>ſance can fetch it out: <hi>My ſheepe ſaith
+<pb n="14" facs="tcp:132388:16"/>
+Chriſt,</hi>
+               <note place="margin">
+                  <hi>Ioh.</hi> 10. <hi>v.</hi> 28.</note> 
+               <hi>heare my voyce and I knowe them, they followe me, and I giue them eternall life, they ſhall neuer periſh, neither ſhall any plucke them out of my hands;</hi> where he doth not ſay any ma<g ref="char:cmbAbbrStroke">̄</g>, but any; That is to ſay, any ſinne, any death, or any diuell.</p>
+            <p>And therefore I may ſafely ſecure my ſoule in the ſweete repoſe of my God and Chriſt, when all my friends flee from me, and all mine enemies fly vpon me, as they did vpon my Chriſt, when hanging vpon the tree in greateſt torments, yet found out an iſſue, &amp; ſaid, <hi>Father into thy hands I commend my ſpirit.</hi>
+               <note place="margin">
+                  <hi>Luke.</hi> 23. <hi>v.</hi> 46.</note>
+            </p>
+            <p>Againe, if all this be not ſufficient to ſecure thee, yet know further, that Chriſt is the ſtorehouſe and treaſurie of all mercie, in whom are hid with thee as the Apoſtle ſaith, all the riches of wiſedome and knowledge, of grace, mercie, and peace, of loue, life, and ſal<g ref="char:EOLhyphen"/>uation, neuer exhauſted, but euer full and flowing in all aboundance, yea, and farre aboue all earthly treaſures, in theſe ſeuerall reſpects, <hi>Quia violentia non aufertur, Antiquitate non Corrumpi<g ref="char:EOLhyphen"/>tur, Communitate multiplicatur, pauper<g ref="char:EOLhyphen"/>tate
+<pb n="21" facs="tcp:132388:16"/>
+acquiritur, iucunditate poſſidetur, ex ſpiritualibus Componitur.</hi>
+            </p>
+            <p>For the firſt, the treaſure in this ſtore<g ref="char:EOLhyphen"/>houſe is ſuch, as no violence can fetch it thence, no Moth can eate it, no Can<g ref="char:EOLhyphen"/>ker can corode it, no theeues can break through or ſteale, no furie, no com<g ref="char:EOLhyphen"/>buſtion, no winde from the wildernes, no viole<g ref="char:cmbAbbrStroke">̄</g>ce of the <hi>Sabeians,</hi> no <hi>Caldean</hi> bands can burſt in where thy God and Chriſt haue treaſured vp thy life, and thy ſaluation.</p>
+            <p>Nor is it euer altered with time, de<g ref="char:EOLhyphen"/>cayed, or exhauſted.</p>
+            <p>The Perſian ſtore is now emptied, and deuouring time hath eaten out their rich treaſure, the Aſſirian wealth is worne out, and <hi>Babels</hi> burſe is bro<g ref="char:EOLhyphen"/>ken downe, the great <hi>Maguzin</hi> of the <hi>Medes</hi> is moulded to duſt, and <hi>Romes</hi> reuenues are leſtned ſince <hi>Ceſars</hi> time, the mightie Monarches of the world are either worne out, or weakened, in their wealth; in their wit, in their power, and in their puiſance. The imperiall ci<g ref="char:EOLhyphen"/>tie is ſhallow in ſtore, becauſe it is ſunke in ſinne, and become a cage for all fil<g ref="char:EOLhyphen"/>thie birds. Laſtly, it pittieth me to think
+<pb n="22" facs="tcp:132388:17"/>
+vpon <hi>Salomons</hi> ſtore, when gold and ſiluer weare as ſtones in the ſtreete, tract of time hath ſpent it, and now <hi>Ie<g ref="char:EOLhyphen"/>ruſalems</hi> riches is in her ruines; All theſe are gone, and their pompe was in the pride of a daies continuance, but the Author of daies, our God and Chriſt, hath a treaſure more permanent, and which abideth euer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Yea, and aboue all the treaſures in this world, in a third reſpect, and that is, <hi>Quia Communitate multiplicatur:</hi> all earthly treaſures are ſpe<g ref="char:cmbAbbrStroke">̄</g>t in beſtowing, this heauenly wealth is multiplied in giuing;<note place="margin">
+                  <hi>Pro.</hi> 11. <hi>v.</hi> 24.</note> 
+               <hi>There is that ſcattereth</hi> ſaith <hi>Sa<g ref="char:EOLhyphen"/>lomon and is more increaſed, there is that ſpareth and commeth to pouertie;</hi> And here is the difference betwixt God and vs, the more he giueth, the more he hath; the more we ſcatter, the leſſe we haue; The Fountaine of Gods grace is alwaies open, and the more that flow<g ref="char:EOLhyphen"/>eth from him, the fuller he is, one <hi>Depth</hi> calleth vpon an other, but the <hi>Depth</hi> of his mercie is bottomles.</p>
+            <p>Fourthly, this treaſure excelleth o<g ref="char:EOLhyphen"/>thers, <hi>Quod paupertate acquiritur,</hi> Chriſt his coffers are filled with paine and po<g ref="char:EOLhyphen"/>uertie,
+<pb n="23" facs="tcp:132388:17"/>
+according to that,<note place="margin">
+                  <hi>Math.</hi> 19. <hi>v.</hi> 21.</note> 
+               <hi>If thou wilt be perfect, goe ſell that thou haſt, and giue it to the poore, and thou ſhalt haue treaſure in heauen, and come and followe me.</hi>
+            </p>
+            <p>
+               <hi>And againe, whoſoeuer ſhall forſake hou<g ref="char:EOLhyphen"/>ſes, or brethren, or ſiſters, or father, or mo<g ref="char:EOLhyphen"/>ther, wife or children, or lands, for my name ſake, he ſhall receiue an hundreth fold, and ſhall inherit euerlaſting life;</hi>
+               <note place="margin">
+                  <hi>Iſay.</hi> 55.1.</note> 
+               <hi>it is the call of thy God and Chriſt, yee that haue no money to buye, come buye without penney or penney<g ref="char:EOLhyphen"/>worth.</hi> Behold I ſet a kingdome on ſale, euen that of heauen, where riches are bought with pouertie, peace with per<g ref="char:EOLhyphen"/>ſecution, glorie with ſhame, mirth with mone, Sollace with ſorrow, &amp; life with death, for yee muſt die once, that yee may liue alwaies, &amp; alwaies there, where true Ioyes are to be found.</p>
+            <p>Fiftly, though this treaſure be pur<g ref="char:EOLhyphen"/>chaſed with paine, yet it is kept with comfort: Earthly riches we ſo greedily catcht at, and gape after, they are ſharpe as a thorne, &amp; they pricke to the bone, for they pricke in getting, they pricke in keeping, and they pricke in parting from them; Nay, <hi>Acquirendo, Retinendo, Erogando,</hi> in getting, keeping, and be<g ref="char:EOLhyphen"/>ſtowing,
+<pb n="24" facs="tcp:132388:18"/>
+there is nothing but much ſinne, with little ſolace, and great daun<g ref="char:EOLhyphen"/>ger with ſmall delight.</p>
+            <p>But the treaſure wherein our life is hid,<note place="margin">
+                  <hi>Ecclus.</hi> 15. <hi>v.</hi> 8.</note> 
+               <hi>hath in it gladnes of heart (as Siraci<g ref="char:EOLhyphen"/>des</hi> ſaith) <hi>for men of truth haunt it, and ſhall prosper euen to the beholding of God.</hi> Waue therefore all wearines in the wealth of this wicked world, and as the prouerbe is, <hi>Ito ſicut canis per Nilum,</hi> drink by cat<g ref="char:EOLhyphen"/>ches for feare of Crocadils: taſte of it pleaſures, but ſoake not into them, leaſt in the ſweetnes thereof, thou be ſup<g ref="char:EOLhyphen"/>ped vp, <hi>Amatores ſuos nouit deuorare non portare,</hi> it knoweth better how to croſſe, then crowne it riuals.</p>
+            <p>Laſtly, <hi>ex ſpiritualibus Componitur:</hi> This treaſurie ſtands vpon ſpiriturall ſtore, no orient pearle of <hi>Peru</hi> or <hi>Mex<g ref="char:EOLhyphen"/>ico,</hi> no gold of <hi>Hauila,</hi> no Carbunkle, <hi>Topas</hi> or <hi>Chriſolit, <hi>w<hi rend="sup">t</hi>
+                  </hi>
+               </hi> are nothing elſe, but <hi>Terrae maculae &amp; immunditiae;</hi> Nei<g ref="char:EOLhyphen"/>ther any of theſe, or all theſe, with an other world of greater wealth, can ſtore the treaſurie we ayme at, it is filled, it is filled, with the ſubſtance of a more hea<g ref="char:EOLhyphen"/>uenly beeing, <hi>ſpiritualibus, non mundanis gazis,</hi> not with tranſitorie, but with e<g ref="char:EOLhyphen"/>ternall ſtore.</p>
+            <p>
+               <pb n="25" facs="tcp:132388:18"/>It is filled with righteouſnes, peace and ioy of the holy Ghoſt, it is filled with mercie, grace, and glorie: It is filled with long life, length of dayes, and all Aeternitie: It is filled with Imperiall ma<g ref="char:EOLhyphen"/>ieſtie, brightnes, and immortalitie: It is filled with the preſe<g ref="char:cmbAbbrStroke">̄</g>ce of God, with the ſight of the Lambe, and with the ſweete breath, and perfume of the holy Ghoſt, proceeding from both: It is filled with Songs of <hi>Sion, Melodious Muſicke:</hi> and praiſes of all Saintes and Angells, ſwee<g ref="char:EOLhyphen"/>ter then the harmonie of the Heauens.</p>
+            <p>Finally, It is filled <hi>w<hi rend="sup">t</hi>
+               </hi> greater ioy the<g ref="char:cmbAbbrStroke">̄</g> man can thinke, or Angell can ſpeake: &amp; therfore I leaue it with a <hi>Selah,</hi> to my ſoule, till I finde in glorie, what I feele in grace. And the Lord increaſe your Faith, till you come to this perfection.</p>
+            <p>Pardon mee a while, to followe this current, till I hauee layde you a ſleepe, in the ſweete Repoſe and Boſome of your <hi>CHRIST;</hi> And therefore ſay yet further to the ſolace of your ſaued ſoules, Chriſt, in whom your life is ſe<g ref="char:EOLhyphen"/>cured, is that hidden <hi>Mannah,</hi> tendered to the Church at <hi>Pergamus,</hi> and in them to you, and ſo to the conquering Saints
+<pb n="26" facs="tcp:132388:19"/>
+all the Worlde. <hi>To him that ouercom<g ref="char:EOLhyphen"/>meth,</hi>
+               <note place="margin">
+                  <hi>Reuel.</hi> 2. <hi>V.</hi> 17.</note> 
+               <hi>I will giue to eate of the Mannah, that is hidde.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Prou.</hi> 25. <hi>V.</hi> 1.</note>
+               <hi>It ſtands with the glorie of God, to keepe a thing ſecret.</hi> So ſaith <hi>Salomon, But the Kings honour will finde it out:</hi> Chriſt is a ſecret, a myſterie, and a <hi>Myne,</hi> to be dig<g ref="char:EOLhyphen"/>ged into, our heauenly food, our meate and hidden <hi>Mannah,</hi> which we may not find in the barke and rinde, which often times ſeemeth faire to the ſillie Eye of fleſh and blood, but wee muſt ſearch the Veynes, and digge downe to the Roote, where Chriſt his ſappe and ſweetnes is.</p>
+            <p>
+               <note place="margin">
+                  <hi>Reu.</hi> 10. <hi>V.</hi> 10.</note>
+               <hi>The little booke was ſweete in the mouth, but bitter in the belly:</hi> The lower it went, the more paſſionate it was: It feeling was in it fall, and till it came to the en<g ref="char:EOLhyphen"/>trails, it entred not. So is this hidden <hi>Mannah,</hi> ſwimming in the eare, &amp; moul<g ref="char:EOLhyphen"/>ded in the mouth, it reliſheth not to thy ſaluation. But when it ſearcheth the veynes of thy heart and ſoule, then is thy life hidde in Chriſt, then is the very ſoule of thy Soule, incorporated into thy Sauiour, which made the Prophet crye out in Rauiſhment of ſpirit, <hi>Raſili,
+<pb n="27" facs="tcp:132388:19"/>
+Raſili, My ſecret to my ſelfe,</hi>
+               <note place="margin">
+                  <hi>Iſai.</hi> 24. <hi>V.</hi> 6.</note> 
+               <hi>My ſecret to my ſelfe.</hi>
+            </p>
+            <p>As if hee ſhould ſay, If none will feele, yet am I filled with the abundance of this Angells foode: yea, and though all the world lye in darknes, yet <hi>Chriſt</hi> my Loue, my Life, my Light, and my Saluation, ſhineth vnto my ſelfe, and I ſhall walke in the brightnes thereof: euen from grace to grace, till I come to glorie.</p>
+            <p>Yea, and in the meane time be fedde and filled with that Heauenly <hi>Mannah,</hi> which in theſe reſpects, I may paralell with my <hi>CHRIST,</hi> and apply as a com<g ref="char:EOLhyphen"/>fortiue to your penſiue ſoules, who are to dye, and now hunger and thirſt after righteouſnes, grace, and glorie.</p>
+            <p n="1">1. Firſt, as <hi>Mannah</hi> fell from Hea<g ref="char:EOLhyphen"/>uen, So did Chriſt, when hee bowed the Heauens, and came downe and ſaid, <hi>I am the bread of life that came downe from Heauen, whereof who Eateth, ſhall neuer hunger any more!</hi>
+            </p>
+            <p>Now your Eating of <hi>CHRIST,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 6. <hi>V.</hi> 35.</note> is but your (ſtedfaſt Faith) &amp; beleuing in <hi>CHRIST:</hi> For ſo ſaith Saint <hi>Auguſtine,
+<pb n="28" facs="tcp:132388:20"/>
+Edere, eſt Credere:</hi> And therefore ſaith <hi>Chriſt,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 6. <hi>V.</hi> 40.</note> 
+               <hi>He that belieueth in mee hath euer<g ref="char:EOLhyphen"/>laſting life, and I will raiſe him vp at the laſt day.</hi> Whervpon I may conclude, <hi>Quid paras dentem, &amp; ventrem, Crede &amp; man<g ref="char:EOLhyphen"/>ducaſti:</hi> Why doeſt thou bring mee thy tooth and thy belly? belieue in me, and thou haſt eaten me.</p>
+            <p>Secondly, when the <hi>Mannah</hi> was fal<g ref="char:EOLhyphen"/>len, ſome gathered more, and ſome ga<g ref="char:EOLhyphen"/>thered leſſe, and yet ſo, <hi>As he that gathe<g ref="char:EOLhyphen"/>red little,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 16. <hi>V.</hi> 18.</note> 
+               <hi>had no lacke, and he that gathered much, had nothing ouer:</hi> So is <hi>CHRIST</hi> the foode of our ſoules, hee filleth all that gather, though not in like meaſure: And therefore let none iudge of the quantitie of Faith and Sanctitie, how much or how little will ſaue a ſoule: Si<g ref="char:EOLhyphen"/>thence we are heere taught, that if it be any, it is enough. For he that gathered little had no lacke, and he that gathered much had nothing ouer. None may preſume, haue he neuer ſo much, None may deſpaire, haue hee neuer ſo little: But he that hath none at all, is remediles of all mercie. You are here deiected at Chriſt his feet, your teares, prayers, and
+<pb n="29" facs="tcp:132388:20"/>
+kiſſes, expreſſe your Faith and Feeling, both of Chriſt his mercies, and your owne miſeries. It may be you thinke, you are feeble in Faith, and wanting in workes, and what of that? <hi>Tantum velis, &amp; Deus praeoccurrit:</hi> Onely bee thou willing, and God will ſupplie thy wants: hee will meete thee in the way,<note place="margin">
+                  <hi>Luk.</hi> 15. <hi>Vers.</hi> 17.</note> as the lo<g ref="char:EOLhyphen"/>uing Fatheer did his loſt Childe, and ſay, <hi>This my Sonne was dead, and is aliue againe: and he was loſt, but is found.</hi>
+            </p>
+            <p>Thirdly, <hi>Mannah</hi> fell from Heauen,<note place="margin">
+                  <hi>Exod.</hi> 15. <hi>Verſ.</hi> 15.</note> when they thought not on it, nor knew it not: and therefore vpon the ſight, they ſaid, <hi>Manhu, quid hoc:</hi> what is this? Chriſt fell downe from heauen, like a ſhower of Raine, vpon a fleece of wooll: in ſoftnes and in ſilence: his owne knew him not, but ſaid: <hi>Is not this the Carpen<g ref="char:EOLhyphen"/>ters Sonne? Who is this, that both winde and Seas obey?</hi> Suddenly hath the Sonne of God ruſhed vpon you, and hath vio<g ref="char:EOLhyphen"/>lently taken you out of your ſinnes, and it cannot be, but vpon the ſight and re<g ref="char:EOLhyphen"/>liſh of his ſweete mercies: Yee ſay to the aſtoniſhment of your ſaued ſoules, <hi>Manhu;</hi> who is this, that thus fills and
+<pb n="30" facs="tcp:132388:21"/>
+feedes our ſoules, with vnſpeakable ioy and dulcet loue.</p>
+            <p>Fourthly, <hi>Mannah</hi> fell from heauen, when <hi>Iſrael</hi> was furtheſt fallen from God, murmuring in the wildernes a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> their gouernour,<note place="margin">
+                  <hi>Exit.</hi> 16. <hi>v.</hi> 2.3.</note> and <hi>Aa<g ref="char:EOLhyphen"/>ron</hi> their prieſt, and wiſhing they had died in <hi>Egipt,</hi> and had neuer heard of <hi>Canaan:</hi> Chriſt came into this world a Sauiour from ſinne, when all the world was dead in ſinne, when the Scepter was gone from <hi>Iudah,</hi> and there was ne<g ref="char:EOLhyphen"/>uer a Prophet left, when the ſacrifices were ceaſed, and the holy lampes were put out, when the houſe of God was made a denne of theeues, and the world was tyred with traditions, I ſay he came when the Lawe was periſhed from the Prieſts, and the kingdome was in an Ataxie. Then, eue<g ref="char:cmbAbbrStroke">̄</g> then came Chriſt to repaire our ruines, to re<g ref="char:EOLhyphen"/>deeme vs from ſinne, death, and dam<g ref="char:EOLhyphen"/>nation, feeding vs with heauenly foode to life and immortalitie.</p>
+            <p>And now tell me you that are to die, were yee not violently taken to grace, when yee were furtheſt fallen from
+<pb n="31" facs="tcp:132388:21"/>
+God, when running on in ſinne, did he not repaire your ruines? and did he not thinke vpon you ere yee thought vpon him? are not theſe his mercies preſſing out your teares of repentance, are they not mercifull preuentions, meeting with your miſeries? doth he not euen now by this temporall death, deliuer you from eternall deſtruction both of body and ſoule for euer? Sure<g ref="char:EOLhyphen"/>ly the Lord hath found you out in an acceptable time, when you may re<g ref="char:EOLhyphen"/>deeme a bad life, with a bleſſed death, and in the waſte and roaring wildernes of this world, wherein yee haue wan<g ref="char:EOLhyphen"/>dered tedious waies, he hath filled you with <hi>Mannah,</hi> and brought you to <hi>Canaan,</hi> I meane to heauen the land of your inheritance.</p>
+            <p>But me thinkes I ſee you ſigh in the ſilence of your ſoules, and ſay with griefe of heart, notwithſtanding all I haue ſaid of Chriſt in whom yee are hidde and ſecured, alas and woe is me therefore, though I be hidde in my Chriſt, yet I die in my ſinne, and then am I gone with thoſe reprobate Iewes,
+<pb n="32" facs="tcp:132388:22"/>
+Of whom Chriſt ſaide, <hi>Yee ſhall ſeeke me, and ſhall dye in your ſinnes, &amp; whither I goe, can yee not come.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Io.</hi> 8. <hi>V.</hi> 21.</note>Wherevnto I anſwere, to breake off ſinne by repentance, is a bleſſed thing: but to liue in the ſolace of ſinning, and ſo to die, is moſt woefull and miſerable: And therefore I ſay;
+<list>
+                  <item>1. <hi>That it if one thing to dye in ſinne.</hi>
+                  </item>
+                  <item>2. <hi>An other thing to dye with ſinne.</hi>
+                  </item>
+                  <item>3. <hi>And a third thing to die for ſinne.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Reprobate from God, they die in their ſinne, whiles they perſeuere in ſinne to the ende, hauing neither ſenſe nor feeling of their wickednes: but make ſhipwracke of a good conſcience, without care to cure the malady of their ſoules, either by Faith in Chriſt, or Re<g ref="char:EOLhyphen"/>pentance towards God: And ſo one li<g ref="char:EOLhyphen"/>ueth in his Idolatrie, and dyeth in his Idolatrie: another liueth in his Adulte<g ref="char:EOLhyphen"/>rie, and dyeth in his Adulterie: a third liueth in his oppreſſion, ad dyeth in his oppreſsion: a fourth liueth in his ma<g ref="char:EOLhyphen"/>lice, and dyeth in his malice: a fift li<g ref="char:EOLhyphen"/>ueth
+<pb n="33" facs="tcp:132388:22"/>
+in his ſtealth, and dieth in his ſtealth. All in their impenitence againſt the Lord, and neuer breaking off their ſinne, till ſinne haue lodged them in their graues, and buried them in their impietie.</p>
+            <p>
+               <hi>Abſolon</hi> liued in ſinne, and died in ſinne: he liued in ſinne, when he lay with his fathers concubines in the ſight of the ſonne: <hi>Abſolon</hi> died in ſinne, when in the height of his ambition, pride, and rebellion, his owne lockes hanged him, and <hi>Ioabs</hi> ſpeare pearced him, <hi>quaelis vita, finis ita,</hi> ſuch a life, ſuch a death: he ſinned with ſollace, but he died with ſorrowe: So I may ſay, of <hi>Saul, Iudas, Pharaoh, Iulian,</hi> and of al the dam<g ref="char:EOLhyphen"/>ned crue of deſperate <hi>Epicures,</hi> who dare ſay in deſpight of God and Chriſt, of death, and doome, let vs eate and drinke, to morrowe we ſhall die, and ſo an end. Nay then is no end, but a be<g ref="char:EOLhyphen"/>ginning of ſorrow neuer to end.</p>
+            <p>But to die with ſinne, is ſo to kill ſinne in this mortall body, as not to ſuffer it to riſe, rule, and rebell like a tyrant, but to ſuppreſſe it, with a conti<g ref="char:EOLhyphen"/>nuall
+<pb n="34" facs="tcp:132388:23"/>
+fight and mortification, and though happily wee cannot beate backe the fume but it will ſmoake in vs, yet muſt wee ſtriue to quench the flame, that it burne vs not to ſinders.</p>
+            <p>And thus haue the godly of all ages died with their ſinne, and ſo fought againſt ſinne, as they neuer died in their ſinne, alwaies crying with the bleſſed Apoſtle, <hi>Miſerable man that I am, who ſhall deliuer me from this body of ſinne.</hi> And with holy <hi>Iob, If I waſh my ſelfe with Snowe water,</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 9. <hi>v.</hi> 30.31.</note> 
+               <hi>and purge mine hands moſt cleane, yet ſhall thou plunge me in the pitte, and mine owne cloathes ſhall make me filthie.</hi>
+            </p>
+            <p>Theſe feele their ſinnes, but withall they finde a ſauiour: theſe ſorrow for their ſinnes, and yet reioyce in their Infirmities. They feare a daunger, but they finde a deliuerance: yea, they knowe and are well aſſured, that though ſinne doe abound, yet grace doth ſuperabound, they waſh their ſtoles in the blood of the lambe, and their red bloodie ſinnes, are made
+<pb n="35" facs="tcp:132388:23"/>
+ſhim white in the tincture of his blood, euery drop whereof is ſufficient to re<g ref="char:EOLhyphen"/>deeme a thouſand worlds.</p>
+            <p>In a word,<note place="margin">2. <hi>Cor.</hi> 12. <hi>v.</hi> 9.</note> theſe are they <hi>who reioyce in weakenes, and take pleaſure in their in<g ref="char:EOLhyphen"/>firmities, that the power of God may dwell in them:</hi> theſe are they whom Sathan often buffeteth, leaſt they ſhould be exalted out of meaſure, with the aboun<g ref="char:EOLhyphen"/>dance of reuelations: theſe pray to be deliuered, and though they pre<g ref="char:EOLhyphen"/>uaile not, yet doe they heare to the ſolace of their ſaued ſoules, euen from him whoſe lippes are powdered with much grace, <hi>My grace is ſufficient for thee, for my power is made perfect through weakenes,</hi> my grace hath pre<g ref="char:EOLhyphen"/>uented thee, my grace doth aſſiſt thee, my grace ſhall perfect thee, theſe are they who mince with no merit, but relie vpon the meere mercie of their Chriſt, euer liuing in ſinne, and yet dying to ſinne, with an aſſured hope that their ſinnes are purged, pardoned, forgotten, and not impu<g ref="char:EOLhyphen"/>ted, as and if their ſoules ſhould thus ſolace themſelues in the free remiſſion
+<pb n="36" facs="tcp:132388:24"/>
+of their ſinnes, thoſe ſinnes which thou haſt not purged ô my Chriſt, thoſe haſt thou pardoned.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, to die for ſinne is ſo ſole and proper to Chriſt, as it can be ſaid of none to haue done it but himſelfe, <hi>For he trode the winepreſſe alone, and of all the world there was none to helpe him,</hi> he a<g ref="char:EOLhyphen"/>lone was the lambe of God that tooke away the ſinnes of the world, and the glorious voyce that came downe from heauen, fell vpon him and none other, <hi>This is my welbeloued ſonne, in whom I am well pleaſed, heare him.</hi> What ſhould I ſay more? he died, he died, the Iuſt for the vniuſt, the innocent for the delin<g ref="char:EOLhyphen"/>quent, and he that knew no ſinne, died for all ſinne, all curſe and exe<g ref="char:EOLhyphen"/>cration lay vpon him, who deſerued none, that it might be laide off vs, he matched all miſerie, that he might merit all mercy: Nay, he died for our ſinnes a dolorous death, that he might gaine for vs an eternall and glorious life.</p>
+            <p>Good Lord how much are we obliged to thee and to thy death, we ſinned
+<pb n="37" facs="tcp:132388:24"/>
+and thou ſmarted for vs, we were in debt, and thou diſchargedſt it, we were euen dropping downe to hell, and in ſuffering thou haſt made vs ſoue<g ref="char:EOLhyphen"/>raignes in heauen. No ſacrifice, no ſalue, no electuarie could cure the ma<g ref="char:EOLhyphen"/>ladie of our ſinnes, but the death of the Phiſitian muſt be the life of the Patient, and therefore in this I may ſay in ſome ſenſe (as <hi>Tulli</hi> did to his wife <hi>Terentia</hi> in that his wofull exile) <hi>In hoc miſerior ſum quam tu quae es mi<g ref="char:EOLhyphen"/>ſerima, quod calamitas communis eſt v<g ref="char:EOLhyphen"/>triſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nostrum culpa mea propria:</hi> herein might it well beſeeme me ô my Chriſt to be more afflicted then thou whoſe afflictions are aboue all afflictions, that the fall is common to vs both, but the fault is properly mine, for I haue ſinned, and thou haſt ſmarted, the Iuſt for the vniuſt.</p>
+            <p>And here the rather to breake your hearts with the balme of Chriſt, his loue, who died for your ſinnes, let me aſſure you in the faith, how diuerſly this his vnſpeakable loue is confir<g ref="char:EOLhyphen"/>med and ſealed vnto you, both by
+<pb n="38" facs="tcp:132388:25"/>
+bond, and baile, for he hath ſworne to your ſaluation, and he hath put in himſelfe body for body. Nay, ſoule for ſoule, to anſwere the rigour of his father, that you his children might be free.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pſal.</hi> 9.10.</note>For the firſt, true it is <hi>the Lord hath ſworne, and it hath not repented him, thou art a Prieſt for euer after the order of Melchizadecke:</hi> A Prieſt to pray, a Prieſt to bleede, a Prieſt to pleade, neuer wanting to ſtand vp in the gap for vs moſt miſerable ſinners; Had it not beene enough to haue prayed for vs vpon Mount <hi>Oliuet,</hi> but he muſt bleede for vs vpon Mount <hi>Caluerie?</hi> And had it not beene ſufficient there to haue bled for vs, but yet in the heauen of heauens to ſtand for vs an aduocate, euen there to pleade our cauſe? according to that of Saint <hi>Iohn, If any man ſinne we haue an aduocate with the father,</hi>
+               <note place="margin">1. <hi>Ioh.</hi> 2.</note> 
+               <hi>euen Ieſus Chriſt the righteous, &amp;c.</hi>
+            </p>
+            <p>Now in this oath and couenant he hath made with vs and for vs, I ob<g ref="char:EOLhyphen"/>ſerue, 1. Stabilitie, In that it is from
+<pb n="39" facs="tcp:132388:25"/>
+God, for ſo it is ſaid, the Lord hath ſworne, he hath ſworne that it is much, and he hath ſworne neuer to repent him of that he hath done: that is more, it repented God that he had made man, but it neuer repented him that he had redeemed man: ſo much more excellent then is the worke of our Redemption, aboue that of our Creation: this of Creation greeued for, but that of Redemption, neuer repen<g ref="char:EOLhyphen"/>ted of: and no maruell, ſith the ſinnes of the olde water, were once waſhed away with olde water, but theſe with new blood, ſtrained out of the vaines of Chriſt, euery droppe whereof was ſufficient to redeeme a thouſand worlds: and therefore I may well ſay of this gift, aboue all that euer God gaue to man, that theſe gifts of God are <hi>Ametamellonta</hi> without repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>And this is the holy couenant the Lord made with vs before the world was, for the ſafe keeping whereof he hath put in his Chriſt, to enter both bond and baile, Life for life, body for
+<pb n="40" facs="tcp:132388:26"/>
+body, ſoule for ſoule, as the bleſſed Apoſtle ſaith, <hi>A Suretie of a better Coue<g ref="char:EOLhyphen"/>nant,</hi> the worthines whereof as I haue ſaid is, 1. <hi>In firmitudine,</hi> as confirmed by oath, for the Lord hath ſworne: 2. in <hi>perpetuitate</hi> as abiding euer, for of his kingdome there is no end: 3. <hi>in pacti<g ref="char:EOLhyphen"/>onis modo</hi> ratified with blood, neither of Buls nor Calues, but with the preti<g ref="char:EOLhyphen"/>ous blood of Ieſus Chriſt: 4. <hi>In fine &amp; virtute</hi> as purging our ſinnes, pur<g ref="char:EOLhyphen"/>chaſing our place, and pleading our cauſe, whereas <hi>Moſes</hi> teſtament was eſtabliſhed vpon no ſuch ſauing grounds, for it was confirmed with<g ref="char:EOLhyphen"/>out oath, and but for a time, with the blood of Buls and Goates, with the aſhes of an Heyfer ſcattered in the ayre, nor with any promiſe of eter<g ref="char:EOLhyphen"/>nall ſaluation, but of a temporall reſt and <hi>Canaan.</hi> And thus of the aboundance of Chriſt his grace, we haue all receiued grace for grace: A grace preuenting, when hee thought vpon vs, ere we thought vpon him, and met our miſerie with his mercie: A grace aſſiſting, ſupporting our frailtie,
+<pb n="41" facs="tcp:132388:26"/>
+and faſhioning our faith and obedience to his holy will: and a grace perfecting, Neuer leauing vs, till hee haue made vs to appeare before his Father in perfect beautie, thus ſaying,</p>
+            <p>
+               <hi>Oh Father here am I, and the Chil<g ref="char:EOLhyphen"/>dren which thou haſt giuen mee,</hi> and nowe pardon them becauſe thou haſt plagued mee; <hi>Me me adſum qui feci in me, conuertite ferrum ô Rutuli nihil iſte nec auſus nec potuit.</hi> It is I, that haue beene made ſinne for them, and paide the raunſome for their deathes, thou (ô my <hi>GOD</hi>) haſt turned thy furie vpon mee, I haue ſelte it: ô turne it from them, that they fall not, who nei<g ref="char:EOLhyphen"/>ther durſt (nor could) endure my dan<g ref="char:EOLhyphen"/>ger, or drinke of my Cuppe: Shall not the Iudge of all the worlde doe accor<g ref="char:EOLhyphen"/>ding to right? That which thou haſt pu<g ref="char:EOLhyphen"/>niſhed in mee, thou mayeſt not pu<g ref="char:EOLhyphen"/>niſh in them againe. Oh my <hi>GOD</hi> (heare my prayer,) forgiue them, for they knew not what they did, and for<g ref="char:EOLhyphen"/>giue them their ſinnes, with the puniſh<g ref="char:EOLhyphen"/>ment of their ſinnes, for me thy ſonne, and their Sauiours ſake.</p>
+            <p>
+               <pb n="42" facs="tcp:132388:27"/>And heere ſeaſonable to you be it ſpoken, who are but lookers on and beholders of theſe wofull tragedies, theſe are now readie to be ſacrificed, and to act the laſt and beſt part of their life, vpon the Altar of their Croſſe, you ſtay behinde, how long God hee knoweth, and muſt endure the warres and woes of this wicked world, take heede you trample not vnder your feete the blood of that couenant which theſe penitent ſinners haue laide to their hearts, and treaſu<g ref="char:EOLhyphen"/>red vp in their deareſt thoughts: Nor doe you thinke that onely they are ſinners vpon whom this Tower of <hi>Si<g ref="char:EOLhyphen"/>loah</hi> is fallen, for and if yee doe not repent, yee ſhall likewiſe periſh: I dare not for my life ſecure you in your ſinnes, there be different deaths for different ſinnes, which muſt be repented for, otherwiſe yee ſhall die in your ſinnes <hi>penitentiam dare poſſum ſecuritatem non poſſum,</hi> vpon your re<g ref="char:EOLhyphen"/>pentance I dare pronounce remiſſion, but vpon your rebellions, I dare giue no ſecuritie: <hi>Nuſquam eſt ſecuritas</hi>
+               <pb n="43" facs="tcp:132388:27"/>
+there is no ſafetie where ſinne ſeazeth, if <hi>Angels</hi> ſinne in heauen out they muſt, if <hi>Adam</hi> ſinne in Paradice a<g ref="char:EOLhyphen"/>way he muſt, and if <hi>Iudas</hi> ſhrinke at the ſide of Chriſt he muſt be gon, <hi>Malorum eiecto bonorum glorificatio,</hi> then are the good and godly glorified, when the wicked and wayward are mor<g ref="char:EOLhyphen"/>tified.</p>
+            <p>There be two ſinnes ſenſible in this diſſolute age wherein we liue, and they are written in ſo great and ca<g ref="char:EOLhyphen"/>pitall letters, that a man may reade them running, the firſt is the fawning ſinne of preſumption, the other is, the fearefull ſinne of deſperation: In our preſumption we ſoare too high, and the fire vpon the mount doth ſcorch vs: In our deſpaire, wee houer too lowe, and the furies of hell doe haunt vs: In our preſumption weare too much exaulted, and we dare to ſinne, notwithſtanding Gods iudgements: In our deſpaire, we are too much deiected, and we doe not repent, notwithſtanding his mercies: <hi>Medio Tutiſſimus ibis;</hi> A
+<pb n="44" facs="tcp:132388:28"/>
+meane is beſt, and that is, to goe by Chriſt, in whome mercie and Trueth meete together, righteouſnes and peace, kiſſe each other.</p>
+            <p>Surely wee can goe to no Pulpit, but <hi>Paules</hi> paſſion dooth pearce our hearts, to prouoke our ſpeech againſt the out<g ref="char:EOLhyphen"/>rage of both, <hi>Many walke (of whom I haue tolde you often) and now tell you weeping, they are enemies to the croſſe of Chriſt, their bellie is their God, their glorie is their ſhame, and they doe but minde Earthly things.</hi> Nay, you are well worſe in your vnrepentant liues, then theſe poore ſinners are in their pe<g ref="char:EOLhyphen"/>nitent deaths: For they haue their con<g ref="char:EOLhyphen"/>uerſation in Heauen; From whence they looke for the Sauiour: Euen the Lorde Ieſus Chriſt, who ſhall change theſe our vile bodies, that they may be faſhioned like vnto his glorious bodie, according to the working, whereby he is able euen to ſubdue all things vnto himſelfe: Yea, that I may co<g ref="char:cmbAbbrStroke">̄</g>clude with my Text, Theſe haue their liues ſo hid<g ref="char:EOLhyphen"/>den in Chriſt, as they are well aſſured, that when Chriſt which is their life, ſhal
+<pb n="45" facs="tcp:132388:28"/>
+appeare, then ſhall they appeare with him in glorie.</p>
+            <p>And ſo I paſſe to the laſt Wheele, tur<g ref="char:EOLhyphen"/>ning and tending to that glorie, which ſhall be euen vpon your diſſolution in ſoule, and vpon the reſtauration of your bodies, in the day of your Redempti<g ref="char:EOLhyphen"/>on, when Chriſt who is your life ſhall appeare.</p>
+            <p>Now in this Apparition what, ſhall I ſee? I ſhall ſee the ſecond comming of my <hi>CHRIST</hi> attended vpon, Not with twelue poore Fiſhermen, but with all the Powers of heauen. I ſhall ſee him come <hi>Ad Sententiandum, &amp; ad Seperandum:</hi> when thoſe that haue done good, ſhall goe into euerlaſting life, whither God bring you, and thoſe that haue done e<g ref="char:EOLhyphen"/>uill, into euerlaſting Condemnation, from which the Lord deliuer you.</p>
+            <p>But what ſhall ye ſee vpon Chriſt his Apparition? Nay, rather what ſhall yee not ſee vpon your diſſolution? <hi>Words ſpoken in ſeaſon as</hi> Salomon <hi>ſaith, are like apples of ſiluer in pictures of gold,</hi> therefore flye out my voyce, and be ſtrong my ſpirit, euermore to expreſſe
+<pb n="46" facs="tcp:132388:29"/>
+the glorie of thoſe vnſpeakable Ioyes yee ſhall both ſee and feele within theſe fewe houres, when dead in body, but rauiſhed in ſoule, yee ſhall ſee the heauens open to giue you readie paſ<g ref="char:EOLhyphen"/>ſage to eternall bleſſednes.</p>
+            <p n="1">1 Where yee ſhall ſee God as he is face to face, I ſay God of ſo great Ma<g ref="char:EOLhyphen"/>ieſtie, might, bountie, beautie, and loue, as if a man were filled with all other bleſſings both temporall and eternall, and yet without that, as <hi>Plotinus</hi> ſaith, all were but miſerie and accurſed<g ref="char:EOLhyphen"/>nes.</p>
+            <p n="2">2 Yee ſhall ſee the comfortable face and countenance of Ieſus Chriſt, fai<g ref="char:EOLhyphen"/>rer then the ſonnes of men, and whom the very <hi>Angels</hi> deſire to behold.</p>
+            <p n="3">3 Yee ſhall ſee the holy Ghoſt, proceeding from both, and breathing vpon your ſaued ſoules, like a ſofte ayre vpon a garden, and more ſweete then all the trees of incenſe.</p>
+            <p n="4">4 Yee ſhall ſee the bright court of <hi>Angels, Cherubines,</hi> and <hi>Zeraphines,</hi> at<g ref="char:EOLhyphen"/>tending the <hi>Deitie,</hi> and euer preſſing to doe his will, faithfully, ſpeedily,
+<pb n="47" facs="tcp:132388:29"/>
+willingly, and neuer wearie of watch<g ref="char:EOLhyphen"/>ing, becauſe they are neuer wearie of well doing.</p>
+            <p n="5">5 Yee ſhall ſee the faire aſſemblie of the Saints of God, Patriarkes, Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, with <hi>Abraham Iſaac</hi> and <hi>Iacob,</hi> in that his glorious kingdome, yee ſhall be tyed with them in the bundle of the liuing, neuer to be looſed any more, yee ſhall returne as they haue done into your reſt, as into a retyring campe after the day of bat<g ref="char:EOLhyphen"/>tell, there ſhall yee followe the lambe whither ſoeuer he goeth, and there ſhall yee walke before the Lord in the land of the liuing for euermore.</p>
+            <p n="6">6 Yee ſhall ſee new <hi>Ieruſalem</hi> come downe from heaue<g ref="char:cmbAbbrStroke">̄</g>, as a Bride prepared for her husband, a Citie of ſolace whoſe portes are euer patent, whoſe ſtreetes are paued with gold, &amp; garniſhed with all manner of pretious ſtones, the Iaſ<g ref="char:EOLhyphen"/>per, the Saphir, the Chalcedonie, &amp; the Emarod, the Sardonix, the Sardius, the Criſolite, and the Berill, the Topas, the Criſoparus, the Iacinth, and the Ama<g ref="char:EOLhyphen"/>thiſt: euer ſplendent ſhall this Citie be,
+<pb n="48" facs="tcp:132388:30"/>
+it ſhall neede no Sunne, for the Lambe is the light of the place, the people that are ſaued, ſhall walke in the Light of it, and the Kings of the Earth ſhall bring their glorie and honour vnto it: The Gates of it ſhall not be ſhut by day,<note place="margin">Auguſt. in Epiſtol. Ioh. Tract. <hi>4.</hi>
+               </note> for there ſhall be no night there: and the glorie both of Iewe and Gentill ſhall be brought vnto it. What ſhould I ſay more? <hi>Quomodo potuit, Lingua ſonuit, Caetera corde cogitentur.</hi> As I could, ſo haue I tolde, let the heart conceiue the reſt: and yet ſo, as <hi>Amoeniſſima Ciuitas: Amantiſſima Societas: Iucundiſſima Foe<g ref="char:EOLhyphen"/>licitas:</hi> A moſt pleaſant place, A moſt ioyfull preſence: And a moſt happie eſtate of bleſſednes, ſhall be your porti<g ref="char:EOLhyphen"/>on, in an endles glorie.</p>
+            <p n="7">7 I cannot ſpeake as I would, and yet my heart is full, breake it will, if it may not vent it, Pardon mee therefore a while to beate backe theſe fearefull paſſions, of your mortalitie, with fur<g ref="char:EOLhyphen"/>ther impreſſions of your aeternitie: yee ſhall haue Eyes without teares, hearts without ſorrowe, ſoules without ſinne, greene youth without greeuance of
+<pb n="49" facs="tcp:132388:30"/>
+olde age, health without ſicknes, ful<g ref="char:EOLhyphen"/>nes without ſacietie, freedome without bondage, beautie without blemiſh, glorie without ſhame, and life without death, your knowledge ſhall be with<g ref="char:EOLhyphen"/>out either doubting, or diſcourſe, for ye ſhall ſee God and all goodnes, all at once, your loue ſhall leuell at the high<g ref="char:EOLhyphen"/>eſt, nor ſhall it faile to fall vpon the loweſt of his Saints.</p>
+            <p n="8">8 Yee ſhall haue what yee can de<g ref="char:EOLhyphen"/>ſire, and yee ſhall deſire nothing but what is good:<note place="margin">Aug. lib. <hi>13.</hi> de tri<g ref="char:EOLhyphen"/>niti. cap. <hi>5.</hi>
+               </note> For as one hath truely ſaid, <hi>Beatus non eſt niſi qui &amp; habet omnia que vult &amp; nihil vult male:</hi> He is not bleſſed who enioyeth not all he will, and yet willeth nothing but what is good.</p>
+            <p n="9">9 Yee ſhall heare <hi>Melodious Songes,</hi> euen ſonges of <hi>Sion,</hi> Pſalmes, Hymmes and praiſes, more ſweete then the har<g ref="char:EOLhyphen"/>monie of the heauens, when all that Celeſtiall hoſte, ſhall fill that holy vault with an <hi>Halaluiah</hi> to the Almigh<g ref="char:EOLhyphen"/>tie, and ſay, <hi>Honour, Glorie, Maieſtie, Power, dominion and might,</hi> be aſcribed vnto him that ſitteth vpon the throne
+<pb n="50" facs="tcp:132388:31"/>
+both now and euer. Thus ſhall all <hi>Angels</hi> cry aloude, the heauens and all the powers therein, <hi>Cherubin and Sera<g ref="char:EOLhyphen"/>phin</hi> continually ſhall crye, <hi>Holie, holie, holy,</hi> Lord God of Sabaoth: <hi>Beati ergo qui habitant in domo tua,</hi> Bleſſed are they that dwell in thy houſe, they ſhall al<g ref="char:EOLhyphen"/>waies praiſe thee, and the praiſes of God ſhall be their daily practiſe.</p>
+            <p n="10">10 Laſtly, and to your endles com<g ref="char:EOLhyphen"/>forts, all this, and all former ioyes ſhall be for euer, and without interruption, for of this kingdome ſhall be no end: <hi>Nec quoad Regem, nec quoad Legem, nec quoad Subditos, nec quoad fines Imperij:</hi> The King is Chriſt, the lawe is loue, the ſubiects are Saints, and the bondaries of this empire are endles, all tyed to no returne, either of tearme or time, <hi>for time ſhall be no more.</hi>
+            </p>
+            <p>And for your ſpeedie paſſage out of this world, into that endles glorie, yee ſhall goe, Nay yee ſhall flie, <hi>Eadem faci<g ref="char:EOLhyphen"/>litate qua faelicitate:</hi> as S. <hi>Auguſtine</hi> ſaith, with as great haſt as happines. <hi>This day ſaith Chriſt, Amodo</hi> ſaith <hi>Iohn: Euen now,</hi>
+               <pb n="51" facs="tcp:132388:31"/>
+and in <hi>Ictu oculi,</hi> in the twinkling of an eye, ſaith bleſſed <hi>Paul,</hi> all ſhall be chaunged at the day of doome. And why not in this day of death? For if <hi>Corpus erit vbi volet animus,</hi> If the body ſhall be where the minde will when it is glorified, why ſhall not the ſoule be where and when God will, when it is deliuered? I ſay deliuered out of the bondage wherein it is, to the glorious libertie of the ſonnes of God.</p>
+            <p>The ſillie eye of fleſh and blood may happily demurre vpon the di<g ref="char:EOLhyphen"/>ſtance, and thinke how it is poſſible the ſoule ſhould paſſe with ſuch ſpeede from this earthly houſe, and houſe of clay, to that high and heauenly habi<g ref="char:EOLhyphen"/>tation, the eight ſphere as ſome write, being diſtant from the earth euery where, 20000. <hi>Semidiamiters,</hi> which calculated a right, and numbred with our miles, maketh a million of <hi>German</hi> miles, which is one thouſand thou<g ref="char:EOLhyphen"/>ſand. Surely I dare determine of no par<g ref="char:EOLhyphen"/>ticular, but in the general ſay as <hi>Balaam</hi> did of <hi>Iſrael, Who can number the duſt of
+<pb n="52" facs="tcp:132388:32"/>
+Iſrael?</hi> So who can tell the diſtance of the heauens?<note place="margin">
+                  <hi>Pro.</hi> 25.3.</note> 
+               <hi>The heauens in height, and the earth in deepenes, and the Kings heart can no man ſearch:</hi> Howbeit, be the di<g ref="char:EOLhyphen"/>ſtance neuer ſo great, yet ſpeedie may be the ſoules paſſage, when it is done by the power of God, which paſſeth all poſſibilitie of man, to conceiue how.</p>
+            <p>And ſo to conclude and cloſe with your ſaued ſoules, who are now by death to make a ſpeedie paſſage into all theſe ioyes, and ſo for a while to preuent vs of that glorie, Lift vp your herts aboue the height of all <hi>Sublimitie,</hi> where true ioyes are to be found, <hi>Hea<g ref="char:EOLhyphen"/>uines may endure for a night, but ioy com<g ref="char:EOLhyphen"/>meth in the morning, Ioy, Ioy, Ioy,</hi> ſuch as neither eye hath ſeene, nor tongue can tell, <hi>Angels</hi> feele it, they cannot ſpeake it, and therefore I leaue it as a <hi>Selah</hi> to my ſoule, till I ſee in glorie, what I feele in grace. And when euen in an inſtant, and leſſe then a thought, I ſhall paſſe from the bowels of this earth, to the boſome of my Chriſt; Whither God
+<pb n="53" facs="tcp:132388:32"/>
+bring both you and vs, for his ſonnes ſake. To whom be glorie, power, and praiſes, both now and euer. <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>
+               <hi>Fol. 1.</hi> For good, read God, in the ſecond line of the Text.</p>
+            <p>
+               <hi>Fol. 18.</hi> Line <hi>12.</hi> for Bonony, read Benony.</p>
+            <pb facs="tcp:132388:33"/>
+            <pb facs="tcp:132388:33" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
